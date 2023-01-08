@@ -1,0 +1,10 @@
+[data-md-color-scheme="udark"] {
+    --md-primary-fg-color: rgb(22, 21, 26);
+    --md-accent-bg-color: rgb(26, 28, 42);
+    --md-default-bg-color: rgb(26, 28, 42);
+    --md-default-fg-color--light: white;
+    --md-typeset-color: white;
+    --md-typeset-a-color: rgb(46, 204, 113);
+    --md-code-bg-color: #23272a;
+    --md-code-fg-color: #d0cbcb;
+}

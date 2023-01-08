@@ -1,0 +1,22 @@
+site_name: KerdokuBot - Documentation
+site_url: https://docs.kerdoku.top/
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: udark
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: © 2020-2023 — KerdokuBot | Все права защищены.
